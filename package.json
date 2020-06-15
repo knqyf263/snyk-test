@@ -43,7 +43,8 @@
         "url": "https://github.com/moment/moment/issues"
     },
     "license": "MIT",
-    "devDependencies": {
+    "dependencies": {
+        "accepts": "~1.3.7",
         "benchmark": "latest",
         "coveralls": "latest",
         "cross-env": "^6.0.3",
